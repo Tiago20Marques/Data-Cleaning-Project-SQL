@@ -9,8 +9,8 @@ This project focuses on cleaning and preparing raw data using MySQL for analysis
 - Remove unwanted columns
 
 ## 📂 Files Included
-- `raw_data.csv` – original dataset
-- `data_cleaning.sql` – full SQL cleaning script
+- `layoffs.csv` – original dataset
+- `Data Cleaning.sql` – full SQL cleaning script
 - `README.md` – project overview and explanation
 
 ## ⚙️ Tools Used
